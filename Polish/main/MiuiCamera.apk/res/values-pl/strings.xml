@@ -2598,5 +2598,5 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="update_latest_version">Aktualna</string>
     <string name="update_new_version">Dostępna aktualizacja</string>
     <string name="update_title">Dostępna aktualizacja</string>
-    <string name="video_prompter_edit_format_not_supported">"This format isn't supported"</string>
+    <string name="video_prompter_edit_format_not_supported">"Ten format nie jest wspierany"</string>
 </resources>
