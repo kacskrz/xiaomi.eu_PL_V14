@@ -975,7 +975,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_front_mirror_label_auto">Automatycznie</string>
   <string name="pref_front_mirror_title">Odbicie lustrzane</string>
   <string name="pref_groupshot_with_primitive_title">Zapisuj także oryginalne zdjęcia</string>
-  <string name="pref_google_lens">Google Lens</string>
+  <string name="pref_google_lens">Obiektyw Google</string>
   <string name="pref_google_lens_summary">Rozpoznawanie kodów QR, e-maili, numerów itp.</string>
   <string name="pref_google_lens_title">Sugestie Obiektywu</string>
   <string name="pref_lens_dirty_detect_summary">Otrzymasz powiadomienie, gdy obiektyw jest brudny</string>
